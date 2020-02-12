@@ -79,7 +79,7 @@ GEM
     crass (1.0.5)
     digest-crc (0.4.1)
     erubi (1.9.0)
-    excon (0.69.1)
+    excon (0.71.0)
     faraday (0.17.0)
       multipart-post (>= 1.2, < 3)
     faraday-digestauth (0.3.0)
